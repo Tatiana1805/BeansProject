@@ -1,0 +1,15 @@
+.page-title {
+    text-align: center;
+  }
+  
+  .container-review {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .container-review img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
